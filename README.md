@@ -21,11 +21,11 @@ Structured weekly reflection template. Captures wins, lessons learned, and plann
 
 ## Learn More
 
-Master AI agent architecture at [heyneuma.com](https://heyneuma.com)
+Learn to build more skills and build your ideas with AI. [heyneuma.com](https://heyneuma.com)
 
 ## Credits
 
-Created by [Kris Puckett](https://github.com/krispuckett). Informed by Anthropic's internal skill practices.
+Created by [Kris Puckett](https://github.com/krispuckett).
 
 ## License
 
