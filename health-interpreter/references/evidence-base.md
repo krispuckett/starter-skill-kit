@@ -139,3 +139,25 @@ All citations used in this skill, with study quality ratings.
 28. **Quer G, Gouda P, Galarnyk M, Topol EJ, Steinhubl SR.** Inter- and intraindividual variability in daily resting heart rate and its associations with age, sex, sleep, BMI, and season. *PLoS ONE.* 2020;15(2):e0227709.
     - **Quality: Strong (Large observational, n>92,000)**
     - RHR varies meaningfully between days. Individual baselines are far more informative than population norms.
+
+## Blood Lab Interpretation
+
+29. **McColl KEL.** Effect of proton pump inhibitors on vitamins and iron. *Am J Gastroenterol.* 2009;104(Suppl 2):S5-S9.
+    - **Quality: Moderate (Review)**
+    - PPIs reduce non-heme iron absorption by 50-65% through reduced gastric acidity. Also impair B12, magnesium, and calcium absorption. Long-term PPI users should monitor these nutrients.
+
+30. **McLaughlin T, Reaven G, Abbasi F, et al.** Is there a simple way to identify insulin-resistant individuals at increased risk for cardiovascular disease? *Am J Cardiol.* 2005;96(3):399-404.
+    - **Quality: Moderate (Observational)**
+    - Triglyceride/HDL ratio >3.0 identifies insulin-resistant individuals with high sensitivity. A simple, widely available proxy for metabolic health assessment.
+
+31. **Sniderman AD, Williams K, Contois JH, et al.** A meta-analysis of low-density lipoprotein cholesterol, non-high-density lipoprotein cholesterol, and apolipoprotein B as markers of cardiovascular risk. *Circ Cardiovasc Qual Outcomes.* 2011;4(3):337-345.
+    - **Quality: Strong (Meta-analysis)**
+    - ApoB is a more accurate marker of cardiovascular risk than LDL-C. Particle count (ApoB) outperforms cholesterol mass (LDL-C) for risk prediction across all studies analyzed.
+
+32. **Holick MF.** Vitamin D deficiency. *N Engl J Med.* 2007;357(3):266-281.
+    - **Quality: Strong (Comprehensive review)**
+    - Vitamin D levels of 40-60 ng/mL associated with optimal health outcomes across bone, immune, cardiovascular, and neuromuscular function. 30 ng/mL is the minimum to prevent deficiency, not the target for optimal function.
+
+33. **Harris WS, Von Schacky C.** The Omega-3 Index: a new risk factor for death from coronary heart disease? *Prev Med.* 2004;39(1):212-220.
+    - **Quality: Moderate (Observational + mechanistic)**
+    - Omega-3 Index (EPA+DHA as % of RBC membranes) <4% = high cardiac risk, 4-8% = intermediate, >8% = low risk. Proposed as a novel, modifiable risk factor for cardiac mortality.

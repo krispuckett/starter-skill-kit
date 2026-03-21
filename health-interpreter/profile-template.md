@@ -117,6 +117,91 @@ from predictable responses to known triggers.
 - **Menstrual cycle:** (if applicable — HRV and RHR vary predictably across phases)
 - **Other:**
 
+## Lab Results
+
+Track your blood work over time. Enter each draw as a new set of rows.
+The skill uses these to cross-reference with your wearable data.
+
+### How to Use This Section
+1. After each blood draw, add your results below
+2. Keep previous draws — trending is more valuable than any single result
+3. Note the "Functional Optimal" range, not just the lab reference range
+4. Flag anything your doctor commented on
+
+### Iron Panel
+
+| Test | Value | Units | Lab Reference | Functional Optimal | Date |
+|------|-------|-------|---------------|-------------------|------|
+| Ferritin | | ng/mL | (varies) | ≥50 (active); ≥50+ (altitude) | |
+| Serum Iron | | mcg/dL | 60-170 | 80-120 | |
+| TIBC | | mcg/dL | 250-400 | 275-375 | |
+| Iron Saturation | | % | 20-50 | 25-45 | |
+
+### Inflammation
+
+| Test | Value | Units | Lab Reference | Functional Optimal | Date |
+|------|-------|-------|---------------|-------------------|------|
+| hs-CRP | | mg/L | <3.0 | <0.5 (low risk) | |
+| ESR | | mm/hr | 0-20 (M), 0-30 (F) | Lower half of range | |
+| Fibrinogen | | mg/dL | 200-400 | <350 | |
+
+### CBC (Complete Blood Count)
+
+| Test | Value | Units | Lab Reference | Notes | Date |
+|------|-------|-------|---------------|-------|------|
+| WBC | | K/µL | 4.5-11.0 | | |
+| Hemoglobin | | g/dL | 14-18 (M), 12-16 (F) | Altitude-adjusted? | |
+| Hematocrit | | % | 40-54 (M), 36-48 (F) | | |
+| MCV | | fL | 80-100 | <80 = iron? >100 = B12? | |
+| RDW | | % | 11.5-14.5 | Elevated = early deficiency | |
+| Eosinophils | | cells/µL | 0-500 | Track trend if GI symptoms | |
+
+### Metabolic Panel
+
+| Test | Value | Units | Lab Reference | Functional Optimal | Date |
+|------|-------|-------|---------------|-------------------|------|
+| Fasting Glucose | | mg/dL | 65-99 | 75-90 | |
+| HbA1c | | % | <5.7 | <5.3 | |
+| Fasting Insulin | | µIU/mL | 2-20 | 3-8 | |
+| HOMA-IR | | — | <2.0 | <1.5 | (glucose × insulin ÷ 405) |
+| ALT | | U/L | 7-56 | <30 | |
+| AST | | U/L | 10-40 | — | Exercise elevates 24-72hr |
+| eGFR | | mL/min | >60 | >90 | |
+
+### Hormones
+
+| Test | Value | Units | Lab Reference | Notes | Date |
+|------|-------|-------|---------------|-------|------|
+| Total Testosterone | | ng/dL | (age-adjusted) | Morning draw essential | |
+| Free Testosterone | | pg/mL | (age-adjusted) | More useful than total | |
+| SHBG | | nmol/L | 10-57 (M) | | |
+| Cortisol (AM) | | µg/dL | 6-23 | Morning fasting draw | |
+| TSH | | mIU/L | 0.4-4.5 | Functional: 1.0-2.5 | |
+| Free T4 | | ng/dL | 0.8-1.8 | | |
+| Free T3 | | pg/mL | 2.3-4.2 | The active hormone | |
+
+### Lipids (Advanced)
+
+| Test | Value | Units | Lab Reference | Target | Date |
+|------|-------|-------|---------------|--------|------|
+| Total Cholesterol | | mg/dL | <200 | Context-dependent | |
+| LDL-C | | mg/dL | <100 | Less useful alone | |
+| HDL-C | | mg/dL | >40 (M), >50 (F) | Higher is better | |
+| Triglycerides | | mg/dL | <150 | <100 optimal | |
+| TG/HDL Ratio | | — | — | <2.0 (insulin resistance proxy) | |
+| ApoB | | mg/dL | — | <90 (ideal <80) | |
+| Lp(a) | | nmol/L | — | <50 (genetic — test once) | |
+
+### Micronutrients
+
+| Test | Value | Units | Lab Reference | Functional Optimal | Date |
+|------|-------|-------|---------------|-------------------|------|
+| Vitamin D (25-OH) | | ng/mL | 30-100 | 40-60 | |
+| B12 | | pg/mL | 200-900 | >500 | |
+| Methylmalonic Acid | | nmol/L | <376 | Lower = better B12 status | |
+| RBC Magnesium | | mg/dL | 4.2-6.8 | >5.0 | |
+| Omega-3 Index | | % | — | >8% | |
+
 ## Goals
 
 What are you tracking toward? Be specific.

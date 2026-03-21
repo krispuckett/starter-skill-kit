@@ -45,7 +45,9 @@ The skill works without a filled-in profile, but it's dramatically more useful w
 | **Cardiovascular** | Walking HR, VO2max, Cardiac Drift, SpO2 |
 | **Training** | TRIMP, Acute-to-Chronic Workload Ratio (ACWR) |
 | **Composite Scores** | Morning Readiness (0-100), Recovery Stability (0-100), Systemic Strain (0-12) |
+| **Blood Labs** | Iron panel, inflammation (hs-CRP, ESR), CBC with differential, metabolic panel (glucose, insulin, HOMA-IR, liver/kidney), hormones (testosterone, cortisol, full thyroid), advanced lipids (ApoB, Lp(a), TG/HDL ratio), micronutrients (D, B12, Mg, omega-3) |
 | **Patterns** | Inflammatory flare, sleep-disordered breathing, iron limitation, overreaching, positive adaptation, pre-symptomatic relapse |
+| **Lab + Wearable Correlation** | 8 cross-correlation patterns linking blood work to wearable trends (iron-limited adaptation, systemic inflammation, HPA dysfunction, eosinophilic process, insulin resistance, thyroid conversion, vitamin D cascade, positive recovery) |
 
 ## The Orientation Model
 
@@ -59,7 +61,7 @@ That's it. That gives you enough to make a good decision about your day. No colo
 
 ## Evidence Base
 
-28 cited studies covering HRV-guided training, inflammation-autonomic coupling, Apple Watch measurement accuracy, iron and performance, sleep architecture, and training load management. Every citation includes a quality rating (Strong / Moderate / Limited).
+33 cited studies covering HRV-guided training, blood lab interpretation, inflammation-autonomic coupling, Apple Watch measurement accuracy, iron and performance, sleep architecture, and training load management. Every citation includes a quality rating (Strong / Moderate / Limited).
 
 See `references/evidence-base.md` for the full list.
 
