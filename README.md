@@ -1,6 +1,6 @@
 # Starter Skill Kit for Claude Code
 
-Three production-ready skill templates to get you building AI agents faster.
+Four production-ready skill templates to get you building AI agents faster.
 
 ## Quick Start
 
@@ -18,6 +18,9 @@ Deep research methodology with source verification. Handles complex questions th
 
 ### 📊 weekly-review
 Structured weekly reflection template. Captures wins, lessons learned, and planning for the week ahead.
+
+### 🫀 health-interpreter
+Evidence-based Apple Watch and wearable health data interpreter. Personal baselines over population norms, composite scoring (Morning Readiness, Recovery Stability, Systemic Strain), cross-metric pattern detection, and a daily decision tree — all backed by 28 cited studies with quality ratings. [Read more →](health-interpreter/README.md)
 
 ## Learn More
 
