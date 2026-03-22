@@ -94,10 +94,10 @@ For every metric below, the same hierarchy applies:
 
 | Zone | Range | Action |
 |------|-------|--------|
-| 🟢 Green | ≥ baseline | Planned training may proceed |
-| 🟡 Yellow | 5-10% below | Reduce intensity one zone. Zone 2 only. |
-| 🟠 Orange | 10-20% below | Easy movement or rest |
-| 🔴 Red | >20% below, or 2-day collapse >25% | Full rest. Assess sleep, GI, stress, illness. |
+| Green | ≥ baseline | Planned training may proceed |
+| Yellow | 5-10% below | Reduce intensity one zone. Zone 2 only. |
+| Orange | 10-20% below | Easy movement or rest |
+| Red | >20% below, or 2-day collapse >25% | Full rest. Assess sleep, GI, stress, illness. |
 
 #### Decision Rules
 - HRV ≥ baseline → full planned training [2][3]
@@ -134,10 +134,10 @@ For every metric below, the same hierarchy applies:
 
 | Zone | Range | Interpretation |
 |------|-------|---------------|
-| 🟢 Green | Within +2 bpm | Stable |
-| 🟡 Yellow | +3 to +4 bpm | Mild strain |
-| 🟠 Orange | +5 to +7 bpm | Moderate strain |
-| 🔴 Red | >+7 bpm for 3 days, or +10 bpm single day | Investigate immediately |
+| Green | Within +2 bpm | Stable |
+| Yellow | +3 to +4 bpm | Mild strain |
+| Orange | +5 to +7 bpm | Moderate strain |
+| Red | >+7 bpm for 3 days, or +10 bpm single day | Investigate immediately |
 
 #### Decision Rules
 - RHR rises >3 bpm AND HRV falls >10% → real physiologic strain, not device noise
@@ -205,10 +205,10 @@ Respiratory rate during sleep is a sensitive but often overlooked metric.
 
 | Zone | Range vs Baseline |
 |------|-------------------|
-| 🟢 Green | Within ±0.5 br/min |
-| 🟡 Yellow | +0.6 to +1.0 |
-| 🟠 Orange | +1.1 to +1.5 |
-| 🔴 Red | >+1.5 for 3+ nights |
+| Green | Within ±0.5 br/min |
+| Yellow | +0.6 to +1.0 |
+| Orange | +1.1 to +1.5 |
+| Red | >+1.5 for 3+ nights |
 
 #### Decision Rules
 - RR rises with low HRV and high RHR → systemic stress or inflammation
@@ -224,10 +224,10 @@ Walking HR is one of the most sensitive markers of cardiovascular fitness and sy
 
 | Zone | Range vs Baseline |
 |------|-------------------|
-| 🟢 Green | Within ±3 bpm |
-| 🟡 Yellow | +4 to +6 bpm |
-| 🟠 Orange | +7 to +10 bpm |
-| 🔴 Red | >+10 bpm sustained for 7+ days |
+| Green | Within ±3 bpm |
+| Yellow | +4 to +6 bpm |
+| Orange | +7 to +10 bpm |
+| Red | >+10 bpm sustained for 7+ days |
 
 #### Decision Rules
 - Walking HR rises >5 bpm with unchanged step count → deconditioning, fatigue, or inflammation
