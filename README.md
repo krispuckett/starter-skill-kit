@@ -10,16 +10,16 @@ Four production-ready skill templates to get you building AI agents faster.
 
 ## What's Included
 
-### 📝 writing-voice
+### writing-voice
 A customizable voice skill that learns your writing style. Perfect for social posts, blog content, and newsletters that need to sound like you, not generic AI.
 
-### 🔍 research-agent  
+### research-agent  
 Deep research methodology with source verification. Handles complex questions that need synthesis across multiple sources with proper citation tracking.
 
-### 📊 weekly-review
+### weekly-review
 Structured weekly reflection template. Captures wins, lessons learned, and planning for the week ahead.
 
-### 🫀 health-interpreter
+### health-interpreter
 Evidence-based Apple Watch and wearable health data interpreter with blood lab cross-correlation. Personal baselines over population norms, composite scoring (Morning Readiness, Recovery Stability, Systemic Strain), cross-metric pattern detection, blood lab interpretation (iron, inflammation, CBC, metabolic, hormones, lipids, micronutrients), lab+wearable cross-correlation, and a daily decision tree — all backed by 33 cited studies with quality ratings. [Read more →](health-interpreter/README.md)
 
 ## Learn More
