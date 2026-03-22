@@ -20,7 +20,7 @@ Deep research methodology with source verification. Handles complex questions th
 Structured weekly reflection template. Captures wins, lessons learned, and planning for the week ahead.
 
 ### 🫀 health-interpreter
-Evidence-based Apple Watch and wearable health data interpreter. Personal baselines over population norms, composite scoring (Morning Readiness, Recovery Stability, Systemic Strain), cross-metric pattern detection, and a daily decision tree — all backed by 28 cited studies with quality ratings. [Read more →](health-interpreter/README.md)
+Evidence-based Apple Watch and wearable health data interpreter with blood lab cross-correlation. Personal baselines over population norms, composite scoring (Morning Readiness, Recovery Stability, Systemic Strain), cross-metric pattern detection, blood lab interpretation (iron, inflammation, CBC, metabolic, hormones, lipids, micronutrients), lab+wearable cross-correlation, and a daily decision tree — all backed by 33 cited studies with quality ratings. [Read more →](health-interpreter/README.md)
 
 ## Learn More
 

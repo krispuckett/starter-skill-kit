@@ -1,14 +1,16 @@
 ---
 name: health-interpreter
 description: >
-  Evidence-based Apple Watch and wearable health data interpreter. Transforms raw
-  biometric data into actionable insights using personal baselines, composite scoring,
-  cross-metric pattern detection, and research-backed decision trees. Covers HRV, resting
-  HR, SpO2, sleep staging, respiratory rate, VO2max, walking HR, heart rate recovery,
-  training load, and body composition. Calibrates to YOUR body — not population averages.
-  Use when: interpreting health data, analyzing Apple Watch metrics, making training
-  decisions from biometrics, understanding health trends, or any question like "what do
-  my numbers mean?" NOT for: diagnosing medical conditions or replacing medical advice.
+  Evidence-based Apple Watch and wearable health data interpreter with blood lab
+  cross-correlation. Transforms raw biometric and lab data into actionable insights
+  using personal baselines, composite scoring, cross-metric pattern detection, and
+  research-backed decision trees. Covers HRV, resting HR, SpO2, sleep staging,
+  respiratory rate, VO2max, walking HR, heart rate recovery, training load, body
+  composition, iron panel, inflammation markers, CBC, metabolic panel, hormones,
+  advanced lipids, and micronutrients. Calibrates to YOUR body — not population
+  averages. Use when: interpreting health or lab data, analyzing Apple Watch metrics,
+  making training decisions from biometrics, understanding blood work, or any question
+  like "what do my numbers mean?" NOT for: diagnosing conditions or replacing medical advice.
 metadata:
   author: kris-puckett
   version: '1.0'
